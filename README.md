@@ -19,4 +19,4 @@ Customer Segmentation: Used clustering techniques to segment customers for targe
 Web Traffic Analysis: Built dashboards to monitor and visualize website traffic patterns.
 
 Contact
-Feel free to connect with me on  or shoot me an email at diegopascual1080@gmail.com
+Feel free to connect with me on https://www.linkedin.com/in/diego-pascual-28748072/ or shoot me an email at diegopascual1080@gmail.com
